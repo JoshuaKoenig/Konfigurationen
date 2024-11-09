@@ -1,4 +1,3 @@
-  GNU nano 8.1                                                                                                                                                                                         xor_decrypt.py                                                                                                                                                                                                  
 import argparse
 
 def xor_decrypt(input_string, printable_only=True):
